@@ -11,6 +11,6 @@ package com.mycompany.main.ing;
  */
 public class Adder {
     public int add(int a, int b){
-        return a+b;
+        return 0;
     }
 }
